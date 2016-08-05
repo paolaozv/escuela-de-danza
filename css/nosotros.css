@@ -1,0 +1,79 @@
+/* Inserta tu codigo aqui */
+ .banner {
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	padding-top: 20px;
+}
+
+.pilares {
+	background-image: url("../img/cubes.png");
+	background-repeat: repeat;
+	height: 400px;
+	padding-top: 90px;
+}
+
+.img-inst {
+	height: 180px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.margen-box {
+	margin-top: 80px;
+}
+
+.parrafo-inst {
+	margin-top: 5px;
+	line-height: 1;
+}
+
+.max {
+	max-width: 100%;
+}
+
+.box-container {
+	padding: 80px 10px;
+}
+
+.box-container h3 {
+	color: #524F4F;
+}
+
+.otra-frase {
+	background-image: url("../img/cubes.png");
+	background-repeat: repeat;
+	height: 300px;
+}
+
+.box-nos {
+	width: 50%;
+	background-color: rgb(33,30,30); 
+	opacity: 0.4;
+	position: relative;
+	top: 100px;
+	padding: 30px 20px;
+}
+
+.box-nos p, h3 {
+	color: #FFF;
+}
+
+.box-nos p {
+	line-height: 1 !important;
+}
+
+.border {
+	border: 1px solid #676767;
+	width: 95%;
+}
+
+.border-pilar h4 {
+	margin-bottom: 20px;
+}
+
+.border-pilar p {
+	margin-top: 30px;
+	line-height: 1.2 !important;
+}

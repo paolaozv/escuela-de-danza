@@ -1,0 +1,69 @@
+/* Inserta tu codigo aqui */
+.clases {
+	background-color: #E2DFDF;
+	height: 880px;
+	padding-top: 50px;
+}
+
+.align-titulo {
+	margin-bottom: 20px;
+}
+
+.borde {
+	height: 350px;
+}
+
+.img-clases {
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+
+#fondo-1 {
+	background-image: url("../img/dance_12.jpg");
+}
+
+#fondo-2 {
+	background-image: url("../img/breakdance.jpg");
+	background-position-y: -25px; 
+}
+
+#fondo-3 {
+	background-image: url("../img/lirical-jazz.jpg");
+	background-position-y: -35px;
+}
+
+#fondo-4 {
+	background-image: url("../img/arabe.jpg");
+	background-position-y: -40px;
+}
+
+#fondo-5 {
+	background-image: url("../img/little.jpg");
+	background-position-y: -40px;
+}
+
+#fondo-6 {
+	background-image: url("../img/yoga.jpg");
+}
+
+.dance {
+	background-color: rgb(33,30,30); 
+	opacity: 0.5;
+	height: 30%;
+	position: relative;
+	top: 40%;
+	padding-top: 20px;
+}
+
+.dance h6, p {
+	color: #FFFFFF;
+}
+
+.dance p {
+	line-height: 1 !important;
+}
+
+.dance h6 {
+	margin-bottom: 10px;
+}

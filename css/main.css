@@ -1,0 +1,133 @@
+/* Inserta tu codigo aqui */
+.banner {
+	background-image: url("../img/dance_1.jpg");
+	height: 65%;
+	padding-top: 20px;
+}
+
+.style-banner {
+	color: #FFFFFF;
+}
+
+.titulo {
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.subt {
+	font-size: 20px;
+	line-height: 1 !important;
+}
+
+.boton {
+	background-color: #020E1C;
+	border: 0;
+	width: 16%;
+	height: 60px;
+	border-radius: 8%;
+	margin-top: 30px;
+}
+
+.descrip {
+	background-image: url("../img/textura_2.jpg");
+	height: 320px;
+}
+
+.texto {
+	padding-top: 3%;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.descrip img {
+	width: 15%;
+}
+
+.boton-2 {
+	background-color: #020E1C;
+	border: 0;
+	width: 20%;
+	height: 40px;
+	border-radius: 10%;
+	color: #FFFFFF;
+}
+
+.position-top {
+	margin-top: -10px;
+}
+
+.img-descrip {
+	margin-top: -20px;
+}
+
+.izq {
+	background-image: url("../img/instructor_4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+}
+
+.der {
+	background-image: url("../img/profesor_9.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+}
+
+.zero {
+	margin: 0 !important;
+	width: 50% !important;
+	border: 1.5px solid #020E1C;
+}
+
+.text-fot {
+	background-color: #020E1C;
+	width: 40%;
+	height: 80px;
+	color: #FFFFFF;
+	position: absolute;
+	bottom: 0;
+	left: 30%;
+	padding-top: 22px;
+	font-size: 23px;
+}
+
+.frase {
+	background-image: url("../img/textura_2.jpg");
+	height: 280px;
+}
+
+.mapa {
+	background-color: #192951;
+	height: 350px;
+}
+
+.white {
+	color: #FFFFFF;
+	list-style: none;
+	font-size: 14px;
+}
+
+.mapa-text {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.enlace {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+.align {
+	padding-top: 40px;
+}
+
+.par-map {
+	margin-bottom: 20px;
+}
+
+iframe {
+	height: 320px;  
+	width: 400px;
+}

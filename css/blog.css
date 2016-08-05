@@ -1,0 +1,47 @@
+/* Inserta tu codigo aqui */
+.blog {
+	background-color: #F7F5F5;
+	height: 880px;
+	padding-top: 50px;
+}
+
+.borde {
+	height: 200px;
+	margin: 0 !important;
+}
+
+.img {
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+} 
+
+#img-1 {
+	background-image: url("../img/blog1.jpg");
+}
+
+#img-2 {
+	background-image: url("../img/profesor_5.jpg");
+	background-position-x: -40px; 
+}
+
+#img-3 {
+	background-image: url("../img/instructor_1.jpg");
+	background-position-x: -40px; 
+}
+
+.border-blog {
+	background-color: #D9D7D7;
+	margin-bottom: 40px;
+	height: 201px;
+}
+
+.boton-blog {
+	background-color: #020E1C;
+	color: #FFF;
+	border: 0;
+	width: 200px;
+	height: 40px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
